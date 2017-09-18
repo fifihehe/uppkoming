@@ -1,0 +1,13 @@
+[0408/224126.810:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224135.485:ERROR:process_info.cc(389)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0408/224301.257:ERROR:process_info.cc(389)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0408/224303.561:ERROR:process_info.cc(389)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0408/224307.168:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224312.464:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224320.252:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224337.392:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224349.676:ERROR:process_info.cc(389)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0408/224411.111:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224412.047:ERROR:process_info.cc(389)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation.  (0xc0000017)
+[0408/224436.322:ERROR:process_info.cc(373)] UncheckedAllocate
+[0408/224442.346:ERROR:process_info.cc(373)] UncheckedAllocate
